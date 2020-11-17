@@ -1,4 +1,10 @@
-### Hi there 👋
+![Victor Korzunin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=floydspace&show_icons=true&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=floydspace&hide_border=true&layout=compact)
+
+[![serverless-esbuild](https://github-readme-stats.vercel.app/api/pin/?username=floydspace&repo=serverless-esbuild)](https://github.com/floydspace/serverless-esbuild)
+[![aws-lambda-nodejs-esbuild](https://github-readme-stats.vercel.app/api/pin/?username=floydspace&repo=aws-lambda-nodejs-esbuild)](https://github.com/floydspace/aws-lambda-nodejs-esbuild)
+[![dynamit-cli](https://github-readme-stats.vercel.app/api/pin/?username=floydspace&repo=dynamodb-migrations-tool)](https://github.com/floydspace/dynamodb-migrations-tool)
+[![isin-validator](https://github-readme-stats.vercel.app/api/pin/?username=floydspace&repo=isin-validator)](https://github.com/floydspace/isin-validator)
 
 <!--
 **floydspace/floydspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
