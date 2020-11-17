@@ -1,4 +1,4 @@
-![Victor Korzunin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=floydspace&show_icons=true&hide_border=true)
+![Victor Korzunin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=floydspace&show_icons=true&hide_border=true&hide_title=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=floydspace&hide_border=true&layout=compact)
 
 [![serverless-esbuild](https://github-readme-stats.vercel.app/api/pin/?username=floydspace&repo=serverless-esbuild)](https://github.com/floydspace/serverless-esbuild)
