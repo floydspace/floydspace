@@ -1,5 +1,5 @@
 ![Victor Korzunin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=floydspace&show_icons=true&hide_border=true&hide_title=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=floydspace&hide_border=true&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=floydspace&hide_border=true&layout=compact&card_width=296)
 ![Wakatime Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=floydspace&hide_border=true&layout=compact)
 
 ## Backers
