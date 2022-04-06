@@ -3,7 +3,7 @@
 ![Wakatime Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=floydspace&hide_border=true&layout=compact)
 
 ## Support
-- **BTC**: 1Fx3h8jz7B2o2tAwZPgbhd7XLHdBgXt63z
+- **BTC**: bc1qys5q4juxwadfx0530xr7p34n83s42n48qk3l4v _(SegWit)_
 - **ETH**: 0xAe331808A65037E98C81b353cf03CaF15382c2e4
 - **SOL**: Ae9T9jDce413zMcWSueu114nwvdffgAzq1L44xM6CuhW _(No Memo)_
 <div>
