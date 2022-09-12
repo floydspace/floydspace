@@ -3,9 +3,9 @@
 ![Wakatime Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=floydspace&hide_border=true&layout=compact)
 
 ## Support
-- **BTC**: bc1qys5q4juxwadfx0530xr7p34n83s42n48qk3l4v _(SegWit)_
-- **ETH**: 0xAe331808A65037E98C81b353cf03CaF15382c2e4
-- **SOL**: Ae9T9jDce413zMcWSueu114nwvdffgAzq1L44xM6CuhW _(No Memo)_
+- **BTC**: bc1qnlrp0qu0w5732s2s92682kp6wts45lnu4zj4lm _(SegWit)_
+- **ETH**: 0x2264E9c059b358e1E4DE2558c74bf5a46E3F6B9d
+- **SOL**: 7PmZZQVGnREtXkDUE3pgNfDbRz8S1zE8SyP6k99JRMC8 _(No Memo)_
 <div>
   <img src="bitcoin-qr.png" alt="Bitcoin QR Code" height="150" width="150" />
   <img src="ethereum-qr.png" alt="Bitcoin QR Code" height="150" width="150" />
