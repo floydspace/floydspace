@@ -2,7 +2,7 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=floydspace&hide_border=true&layout=compact&card_width=296)
 ![Wakatime Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=floydspace&hide_border=true&layout=compact)
 
-## Contributions
+## Other Contributions
 - [esbuild](https://github.com/search?q=author%3Afloydspace+is%3Amerged+repo%3Aevanw%2Fesbuild&type=pullrequests&ref=advsearch&state=closed)
 - [projen](https://github.com/search?q=author%3Afloydspace+is%3Amerged+repo%3Aprojen%2Fprojen&type=pullrequests&ref=advsearch&state=closed)
 - [sequelize](https://github.com/search?q=author%3Afloydspace+is%3Amerged+repo%3Asequelize%2Fsequelize&type=pullrequests&ref=advsearch&state=closed)
