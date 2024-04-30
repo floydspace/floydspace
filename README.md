@@ -5,6 +5,7 @@
 ## Other Contributions
 - [awslabs/llrt](https://github.com/search?q=author%3Afloydspace+is%3Amerged+repo%3Aawslabs%2Fllrt+&type=pullrequests&ref=advsearch&state=closed)
 - [esbuild](https://github.com/search?q=author%3Afloydspace+is%3Amerged+repo%3Aevanw%2Fesbuild&type=pullrequests&ref=advsearch&state=closed)
+- [effect](https://github.com/search?q=author%3Afloydspace+is%3Amerged+repo%3AEffect-TS%2Feffect&type=pullrequests&ref=advsearch&state=closed)
 - [projen](https://github.com/search?q=author%3Afloydspace+is%3Amerged+repo%3Aprojen%2Fprojen&type=pullrequests&ref=advsearch&state=closed)
 - [sequelize](https://github.com/search?q=author%3Afloydspace+is%3Amerged+repo%3Asequelize%2Fsequelize&type=pullrequests&ref=advsearch&state=closed)
 - [serverless-fargate-plugin](https://github.com/search?q=author%3Afloydspace+is%3Amerged+repo%3Ahonerlaw%2Fserverless-fargate-plugin&type=pullrequests&ref=advsearch&state=closed)
