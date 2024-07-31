@@ -27,5 +27,9 @@
   <img src="solana-qr.png" alt="SOL QR Code" height="150" width="150" />
 <div>
 
-<!-- ## Backers
-Warm _Thank you!_ to my backer: -->
+## Backers
+Warm _Thank you!_ to my backer:
+
+<a href="https://github.com/nick-zh">
+  <img title="@nick-zh" src="https://avatars.githubusercontent.com/u/3214182?s=70&amp;v=4" width="75" height="75" alt="@nick-zh">
+</a>
