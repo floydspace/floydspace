@@ -31,5 +31,8 @@
 Warm _Thank you!_ to my backer:
 
 <a href="https://github.com/nick-zh">
-  <img title="@nick-zh" src="https://avatars.githubusercontent.com/u/3214182?s=70&amp;v=4" width="75" height="75" alt="@nick-zh">
+  <img title="@nick-zh" src="https://avatars.githubusercontent.com/u/3214182?s=200&amp;v=4" width="75" height="75" alt="@nick-zh">
+</a>
+<a href="https://github.com/superwall">
+  <img title="@superwall" src="https://avatars.githubusercontent.com/u/88794805?s=200&amp;v=4" width="75" height="75" alt="@superwall">
 </a>
