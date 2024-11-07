@@ -34,5 +34,8 @@ Warm _Thank you!_ to my backer:
   <img title="@nick-zh" src="https://avatars.githubusercontent.com/u/3214182?s=200&amp;v=4" width="75" height="75" alt="@nick-zh">
 </a>
 <a href="https://github.com/superwall">
-  <img title="@superwall" src="https://avatars.githubusercontent.com/u/88794805?s=200&amp;v=4" width="75" height="75" alt="@superwall">
+  <img title="Superwall" src="https://avatars.githubusercontent.com/u/88794805?s=200&amp;v=4" width="75" height="75" alt="@superwall">
+</a>
+<a href="https://github.com/anglinb">
+  <img title="Brian Anglin" src="https://avatars.githubusercontent.com/u/2637602?s=200&amp;v=4" width="75" height="75" alt="@anglinb">
 </a>
